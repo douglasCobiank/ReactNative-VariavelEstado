@@ -1,0 +1,12 @@
+{
+  "name": "variavel-estado",
+  "displayName": "variavel-estado",
+  "expo": {
+    "name": "variavel-estado",
+    "slug": "variavel-estado",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
